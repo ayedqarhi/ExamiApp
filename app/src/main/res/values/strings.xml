@@ -2,4 +2,5 @@
     <string name="app_name">ExamiApp</string>
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
+    <string name="signin">Sign In</string>
 </resources>
